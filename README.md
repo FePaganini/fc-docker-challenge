@@ -1,0 +1,1 @@
+Imagem no DockerHub: fepaganini/fullcycle (https://hub.docker.com/repository/docker/fepaganini/fullcycle/general)
